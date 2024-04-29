@@ -1,0 +1,5 @@
+a=("Dog","Cat","Mouse")
+x=list(a)
+x.append("Cow")
+a=tuple(x)
+print(a)
